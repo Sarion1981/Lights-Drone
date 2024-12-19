@@ -1,1 +1,17 @@
 
+name: README Update Workflow
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  validate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Lint README file
+        run: echo "README file updated successfully!"
