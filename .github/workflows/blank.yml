@@ -1,0 +1,21 @@
+# Lights-Drone
+DE: Ein KI-Projekt zur steuerung von Drohnen mit eingebautem Solar licht, Personenerkennung und deren Beleuchtung bei Nach auf einem spezifizierten Grundstück.
+EN: An AI-Project for activating and controlling Drones with implemented Solar Light, detection of People and there lightening at Nicht at a specified Property.
+
+## Ziel
+Das Projekt soll KI-Modelle trainieren, um die verschiedenen Laute von Katzen zu analysieren und zu verstehen. Ziel ist es, die Emotionen und Bedürfnisse von Katzen zu interpretieren und zu übersetzen.
+
+## Technologien  
+- Python  
+- Azure AI  
+- TensorFlow  
+
+## Funktionen
+- Aufnahme von Katzengeräuschen mit einem Mikrofon.  
+- Analyse von Frequenzen und Mustern.  
+- Vergleich mit einem Datensatz von Katzenlauten (geplant).  
+
+## Zukunftspläne  
+- Datensatz für verschiedene Katzenarten erstellen.  
+- Übersetzung der Katzengeräusche in menschliche Sprache.  
+- Integration mit einer App zur Echtzeit-Kommunikation.
