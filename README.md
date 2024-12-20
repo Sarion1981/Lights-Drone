@@ -23,7 +23,8 @@ This project aims to train AI models to detect people entering a property and il
 - Erkennung von Menschen  
 - Folgen der Personen mit einer Drohne  
 - Einschalten des Lichtes  
-- Aufladen der Drohne  
+- Aufladen der Drohne
+- 
 **EN:**  
 - Detect people  
 - Follow the person with a drone  
@@ -37,7 +38,8 @@ This project aims to train AI models to detect people entering a property and il
 - Drohnenmodell heraussuchen (kompatibel mit Azure AI notwendig)  
 - Aufnahmevorrichtung für ein Solarlight (falls nicht integriert)  
 - Programmierung von AI Vision  
-- Konfiguration der Flugbahn  
+- Konfiguration der Flugbahn
+- 
 **EN:**  
 - Select a drone model (must be compatible with Azure AI)  
 - Add a mount for a solar light (if not already included)  
@@ -49,6 +51,7 @@ This project aims to train AI models to detect people entering a property and il
 ## Mitmachen / Contributing  
 **DE:**  
 Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.  
+
 **EN:**  
 Contributions are welcome! Feel free to submit pull requests or open issues.  
 
